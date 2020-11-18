@@ -9,7 +9,8 @@ package Model;
  *
  * @author willi
  */
-public class DataJurusanBaru {
-    String jurusan_baru;
+public class Jurusan {
+    String jurusan;
+    
     
 }
